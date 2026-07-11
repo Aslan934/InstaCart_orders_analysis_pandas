@@ -26,6 +26,20 @@ The analysis focuses on understanding:
 
 ## 📂 Dataset
 
+Due to GitHub's file size limitations, the full dataset is not stored directly in this repository.
+
+The dataset can be accessed from Google Drive:
+
+**[Download the Instacart Dataset from Google Drive](https://drive.google.com/drive/folders/1pnmtrzSzk-gZnXusQVe8hjdNEtjJgxtK?usp=sharing)**
+
+The dataset includes:
+
+* `instacart_orders.csv`
+* `products.csv`
+* `order_products.csv`
+* `aisles.csv`
+* `departments.csv`
+
 The project uses five related datasets.
 
 ### `instacart_orders.csv`
